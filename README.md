@@ -1,7 +1,7 @@
 # Airgead Banking Application
 
 ## Description
-This is a C++ application that calculates investment growth over time with and without monthly deposits. The program uses object-oriented programming and separates functionality using header and implementation files.
+This is a school project C++ application that calculates investment growth over time with and without monthly deposits. The program uses object-oriented programming and separates functionality using header and implementation files.
 
 ## Project Structure
 - main.cpp handles user interaction and program flow
